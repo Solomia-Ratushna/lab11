@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ADMIN\Desktop\lab11.2\lab11.2\Source.cpp(99,15): warning C4101: 'kurs': unreferenced local variable
+C:\Users\ADMIN\Desktop\lab11.2\lab11.2\Source.cpp(174,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\lab11.2\lab11.2\Source.cpp(262,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  lab11.2.vcxproj -> C:\Users\ADMIN\Desktop\lab11.2\lab11.2\Debug\lab11.2.exe
